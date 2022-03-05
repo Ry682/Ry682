@@ -15,5 +15,5 @@ I'm an italian developer of 14 years old.
 <hr>
 
 <div align="left">
-  <a href="https://discord.com/users/683423964227436576" target="_blank"><img src="https://lanyard.cnrad.dev/api/421282053888147456?idleMessage=Watching My Life In My Bed&bg=282a36&border=10px"></a>
+  <a href="https://discord.com/users/421282053888147456" target="_blank"><img src="https://lanyard.cnrad.dev/api/421282053888147456?idleMessage=Watching My Life In My Bed&bg=282a36&border=10px"></a>
 </div>
