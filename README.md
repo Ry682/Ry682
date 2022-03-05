@@ -1,7 +1,7 @@
 <div align="left">
   <div>
     
-### Hi, I'm rY682 😀
+### Hi, I'm Ry682 😀
 I'm an italian developer of 14 years old. 
     
   </div>
