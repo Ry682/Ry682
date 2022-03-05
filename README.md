@@ -1,16 +1,19 @@
-### Hi there 👋
-<img src = "https://github-readme-stats.vercel.app/api?username=ry682&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-<!--
-**Ry682/Ry682** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="left">
+  <div>
+    
+### Hi, I'm rY682 😀
+I'm an italian developer of 14 years old. 
+    
+  </div>
+</div>
 
-Here are some ideas to get you started:
+<hr> 
+<div align="right"> 
+  <a href="https://gabry.cf" target="_blank"><img width="450vh" src="https://github-readme-stats.vercel.app/api?username=rY682&theme=dracula&show_icons=true&hide=contribs,prs&width=5000px"></a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+<div align="left">
+  <a href="https://discord.com/users/683423964227436576" target="_blank"><img src="https://lanyard.cnrad.dev/api/421282053888147456?idleMessage=Watching My Life In My Bed&bg=282a36&border=10px"></a>
+</div>
