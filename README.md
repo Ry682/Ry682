@@ -1,9 +1,8 @@
 <div align="left">
   <div>
     
-## ✨ Hi, I'm Gabry 
+## ✨ Hi I'm Ry682 but my real nickname is Vex  
 🥤︲ I'm an italian developer of 15 years old.  
-🥂︲ I'm currently learning Go.  
 💡︲ Looking for new ideas everyday. 
   </div>
 </div>
