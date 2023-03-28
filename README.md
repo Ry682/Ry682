@@ -2,7 +2,7 @@
   <div>
     
 ## ✨ Hi I'm Ry682 but my real nickname is Vex  
-🥤︲ I'm an italian developer of 15 years old.  
+🖥︲ I'm an italian developer of 15 years old.  
 💡︲ My current project: Aliax Discord Bot
   </div>
 </div>
